@@ -4,6 +4,9 @@ Thank you for your interest in contributing! All contributions, bug
 reports, bug fixes, documentation improvements, enhancements, and ideas
 are welcome.
 
+Todas las contribuciones, informes de errores, correcciones de errores,
+mejoras de documentación, mejoras e ideas son bienvenidas.
+
 ## How to Contribute
 
 1. Fork the repository to your own GitHub account.
